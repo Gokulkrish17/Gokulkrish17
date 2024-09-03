@@ -1,0 +1,1 @@
+Here, i revise the way of pushing project. Insert - Add - Commit - Push
