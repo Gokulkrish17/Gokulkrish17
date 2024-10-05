@@ -1,1 +1,1 @@
-Here, i revise the way of pushing project. Insert - Add - Commit - Push. git add fileName , git commit -m "Commit any message", git push origin main.
+        Here, i revise the way of pushing project. Insert - Add - Commit - Push. git add fileName , g`i`t commit -m "Commit any message", git push origin main.
